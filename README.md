@@ -4,7 +4,7 @@ Personal instructions for myself, how to set up my macros and remap some keys
 ## Installing new linux system
 1. Go to usr/share/X11/xkb/symbols
 2. Edit Insert key to Hyper_L, Mod3 to Insert
-3. Edit Menu keqy to Meta_L, mod4 to Menu
+3. Edit Menu key to Meta_L, mod4 to Menu
 4. Log out and back in.
 5. Enjoy how easy that was, and how smart you are.
 
